@@ -1,5 +1,7 @@
 # Mikhail Talalaev
 
+<img src="https://i.postimg.cc/0NyKsP42/Sh0ny-anime-style-portret-man-278b983a-ec18-45eb-b539-e679e600935f.png" width="20%">
+
 ## Junior Frontend Developer
 
 ### Summary
@@ -15,14 +17,15 @@ and expanding my skills to keep up with the latest trends and technologies.
 - JavaScript
 - React
 
-
 ### Education
 
 #### - Tyumen State University of Gas and Oil, (2011)
-**Master's Degree 
+
+**Master's Degree
 Chemical Technology**
 
 #### IT-INCUBATOR, (2022)
+
 **Proficient in Test Driven Development (TDD) and functional programming • Experienced in React useReducer Hook and
 Redux • Skilled in optimizing React component rendering • Knowledgeable in using Storybook for React and testing React
 components (Snapshot/Screenshot).**
