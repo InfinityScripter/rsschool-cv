@@ -18,13 +18,11 @@ and expanding my skills to keep up with the latest trends and technologies.
 
 ### Education
 
-#### - Tyumen State University of Gas and Oil,
-(2011)
+#### - Tyumen State University of Gas and Oil, (2011)
 **Master's Degree 
 Chemical Technology**
 
-#### IT-INCUBATOR
-(2022)
+#### IT-INCUBATOR, (2022)
 **Proficient in Test Driven Development (TDD) and functional programming • Experienced in React useReducer Hook and
 Redux • Skilled in optimizing React component rendering • Knowledgeable in using Storybook for React and testing React
 components (Snapshot/Screenshot).**
