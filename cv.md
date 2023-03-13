@@ -50,6 +50,11 @@ components (Snapshot/Screenshot).**
 - LinkedIn: https://bit.ly/3IQp8pw
 - GitHub: https://github.com/Sh0ny-IT
 
+### Languages
+
+- Russian (Native)
+- English (B2)
+
 
 
 
